@@ -49,7 +49,7 @@ Building **production-ready AI/ML systems, RAG pipelines, workflow automation, a
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/rizwannisar) | [Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID) | your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/rizwan-n-12954b147/) | rizwan.nisar310@gmail.com
 
 ---
 
