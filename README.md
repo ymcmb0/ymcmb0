@@ -1,57 +1,129 @@
-# Rizwan Nisar
-**ML & AI Engineer | GenAI Apps | Automation | Cloud & Data Engineering**
-
-Building **production-ready AI/ML systems, RAG pipelines, workflow automation, and cloud data solutions**.
-
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EA4335?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-0A0A0A?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF00AA?style=flat-square)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC2?style=flat-square&logo=neo4j&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-F9AB00?style=flat-square&logo=google-cloud&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-FF9933?style=flat-square&logo=apache&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=white)
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2700&color=00FF41&center=true&vCenter=true&width=780&lines=Rizwan+Nisar+—+ML+%26+AI+Engineer;GenAI+%7C+RAG+Systems+%7C+Automation;Cloud+Pipelines+%7C+LLM+Fine-Tuning;Welcome+to+the+Matrix...">
+</p>
 
 ---
 
-## 🔹 Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| **RAGvocate** | FastAPI, n8n, ChromaDB | AI knowledge automation, RAG pipeline, multi-doc search |
-| **AI Guest Support** | Python, n8n, Docker | Multi-channel booking & guest automation, ML for intent & verification |
-| **LLM Fine-Tuning** | PyTorch, LoRA/QLoRA | Domain-specific model fine-tuning, embedding & inference API |
-| **Cloud Data Pipelines** | AWS, Azure, PySpark, Kafka | ETL/ELT, streaming pipelines, dashboards in Power BI |
-| **Vector Search & Semantic RAG** | FAISS, ChromaDB, Neo4j | Semantic search + retrieval pipelines |
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-1a1a1a?style=for-the-badge&logo=cloudflare&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s-1a1a1a?style=for-the-badge&logo=docker&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Analytics-PowerBI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
 
 ---
 
-## ⚡ Highlights
-- LLM & ML pipelines: training, evaluation, deployment  
-- RAG & vector search for AI apps  
-- Workflow automation (n8n) & API orchestration  
-- Cloud & data engineering: AWS, Azure, GCP, PySpark, Kafka  
-- Dockerized deployments & CI/CD pipelines
+# About Me  
+ML & AI Engineer focused on **GenAI systems**, **RAG pipelines**, **automation**, and **cloud-scale data engineering**. I build **production-grade AI**: retrieval systems, LLM fine-tuning, ETL pipelines, vector search, analytics.
 
 ---
 
-## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/rizwan-n-12954b147/) | rizwan.nisar310@gmail.com
+## Tech Stack
+
+<!-- LANGUAGES -->
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1a1a?logo=python&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/SQL-1a1a1a?logo=postgresql&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?logo=javascript&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Bash-1a1a1a?logo=gnubash&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/PySpark-1a1a1a?logo=apache-spark&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- AI/ML -->
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1a1a1a?logo=pytorch&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?logo=tensorflow&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Keras-1a1a1a?logo=keras&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Transformers-1a1a1a?logo=huggingface&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/LangChain-1a1a1a?logo=chainlink&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/RAG-1a1a1a?logo=opensearch&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- AUTOMATION -->
+<p>
+  <img src="https://img.shields.io/badge/n8n-1a1a1a?logo=n8n&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Airflow-1a1a1a?logo=apache-airflow&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Zapier-1a1a1a?logo=zapier&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1a1a1a?logo=githubactions&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-1a1a1a?logo=microsoft-azure&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- FRAMEWORKS -->
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?logo=fastapi&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Flask-1a1a1a?logo=flask&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Django-1a1a1a?logo=django&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/REST-1a1a1a?logo=postman&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/gRPC-1a1a1a?logo=grpc&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- CLOUD -->
+<p>
+  <img src="https://img.shields.io/badge/AWS-1a1a1a?logo=amazon-aws&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Azure-1a1a1a?logo=microsoft-azure&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/GCP-1a1a1a?logo=google-cloud&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- DATA ENGINEERING -->
+<p>
+  <img src="https://img.shields.io/badge/Kafka-1a1a1a?logo=apache-kafka&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Flink-1a1a1a?logo=apache-flink&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/NiFi-1a1a1a?logo=apache-nifi&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-1a1a1a?logo=databricks&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Data%20Lakes-1a1a1a?logo=minio&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/AWS%20Glue-1a1a1a?logo=amazon-aws&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Azure%20Synapse-1a1a1a?logo=microsoft-azure&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- VECTOR DB -->
+<p>
+  <img src="https://img.shields.io/badge/FAISS-1a1a1a?logo=github&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/ChromaDB-1a1a1a?logo=polymerproject&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Pinecone-1a1a1a?logo=pinecone&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Qdrant-1a1a1a?logo=qdrant&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Neo4j-1a1a1a?logo=neo4j&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- DATABASES -->
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?logo=postgresql&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1a1a?logo=mysql&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/MongoDB-1a1a1a?logo=mongodb&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Redis-1a1a1a?logo=redis&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-1a1a1a?logo=elasticsearch&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- DEVOPS -->
+<p>
+  <img src="https://img.shields.io/badge/Docker-1a1a1a?logo=docker&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?logo=kubernetes&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Terraform-1a1a1a?logo=terraform&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-1a1a1a?logo=githubactions&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
+
+<!-- ANALYTICS -->
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-1a1a1a?logo=power-bi&logoColor=00ff88&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Excel-1a1a1a?logo=microsoft-excel&logoColor=00ff88&labelColor=0a0a0a"/>
+</p>
 
 ---
 
-<!-- Contribution snake -->
-![snake](assets/snake.svg)
+# GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymcmb0&theme=react-dark&area=true&hide_border=true&custom_title=Activity%20Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ymcmb0&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&hide_border=true" width="460"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ymcmb0/ymcmb0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
