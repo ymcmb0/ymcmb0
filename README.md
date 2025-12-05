@@ -116,13 +116,8 @@ ML & AI Engineer focused on **GenAI systems**, **RAG pipelines**, **automation**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymcmb0&theme=react-dark&area=true&hide_border=true&custom_title=Activity%20Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymcmb0&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&hide_border=true" width="460"/>
-</p>
 
----
-
-# 🐍 Contribution Snake
+# Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ymcmb0/ymcmb0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
