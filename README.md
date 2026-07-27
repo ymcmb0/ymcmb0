@@ -1,7 +1,8 @@
-### `Systems Architect`
+### `Definitly a Systems Architect`
+## (source: trust me bro)
 
-Specializing in low-latency distributed systems and production-grade AI
+Specializing in making you dumber.
 * **Intelligence:** Vector Search (pgvector), RAG, LLM Orchestration
 * **Infrastructure:** LMAX Disruptor (Java), PostgreSQL, Distributed Systems
-* **Languages:** Python, Rust, Go, Java, C++
+* **Languages:** Gibberish.
 * **Contact:** [rizwan.nisar310@gmail.com](mailto:rizwan.nisar310@gmail.com)
